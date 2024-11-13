@@ -1,0 +1,64 @@
+.home {
+    height: 500px;
+    width: 100vw;
+}
+
+.imgcenter {
+    display: flex;
+    justify-content: center;
+}
+
+.home-img {
+    height: 130px;
+    width: 10vw;
+    background-color: darkcyan;
+    border: 2px solid black;
+    border-radius: 50%;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.home h2 {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.box-home {
+    display: flex;
+    justify-content: center;
+}
+
+.box {
+    height: 250px;
+    width: 25vw;
+    border: 2px solid darkcyan;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.box h1 {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.box p {
+    text-align: center;
+    margin: 10px;
+}
+
+.home-btn {
+    display: flex;
+    justify-content: center;
+}
+
+.home-btn button {
+    height: 40px;
+    width: 20vw;
+    background-color: darkcyan;
+    color: white;
+    text-align: center;
+    border: none;
+    border-radius: 10px;
+}

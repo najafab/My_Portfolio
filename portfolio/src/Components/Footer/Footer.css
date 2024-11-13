@@ -1,0 +1,59 @@
+.footer {
+    height: 200px;
+    width: 100vw;
+    border: 2px solid black;
+    background-color: darkcyan;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-icons {
+    color: white;
+    font-size: 30px;
+}
+
+.footer-icons i {
+    margin-left: 20px;
+}
+
+
+/* Base styles for all icons */
+
+
+/* Hover effect for each specific icon */
+
+.insta:hover {
+    color: #e4405f;
+    /* Instagram color */
+    transform: scale(1.2);
+    /* Scale up on hover */
+}
+
+.fb:hover {
+    color: #3b5998;
+    /* Facebook color */
+    transform: scale(1.2);
+    /* Scale up on hover */
+}
+
+.tw:hover {
+    color: #1da1f2;
+    /* Twitter color */
+    transform: scale(1.2);
+    /* Scale up on hover */
+}
+
+.wht:hover {
+    color: #25d366;
+    /* WhatsApp color */
+    transform: scale(1.2);
+    /* Scale up on hover */
+}
+
+.tel:hover {
+    color: #0088cc;
+    /* Telegram color */
+    transform: scale(1.2);
+    /* Scale up on hover */
+}

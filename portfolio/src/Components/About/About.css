@@ -1,0 +1,17 @@
+.about {
+    height: 450px;
+    width: 100vw;
+    display: flex;
+}
+
+.about .about-left {
+    height: 450px;
+    width: 50vw;
+    background-color: red;
+}
+
+.about .about-right {
+    height: 450px;
+    width: 50vw;
+    background-color: greenyellow;
+}
